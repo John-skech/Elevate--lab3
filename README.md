@@ -1,0 +1,1 @@
+This is a simple project that creates an API to manage a list of books using Node.js and Express. It helps you add, view, update, and delete books. The data is stored in memory, which means it resets when you restart the server. No database is used.
